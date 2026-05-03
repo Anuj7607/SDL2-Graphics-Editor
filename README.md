@@ -4,7 +4,7 @@
 A lightweight, high-performance computer graphics editor engineered from scratch to demonstrate low-level system operations, core rendering algorithms, and efficient memory management. This project intentionally bypasses high-level standard library abstractions in favor of manual data structure implementations and foundational loop structures to optimize execution speed and maintain strict resource control.
 
 ## Technologies Used
-*   **Language:** C++ (`main.C`)
+*   **Language:** C++ (`main.cpp`)
 *   **Graphics API:** SDL2 (Hardware-accelerated 2D rendering)
 *   **Build Environment:** Windows Batch Scripting (`build.bat`)
 
